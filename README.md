@@ -1,2 +1,2 @@
-# FORJA-tarde-lojica-01
+# FORJA-tarde-logica-01
 primeiro repositorio de logica da turma
