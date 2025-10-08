@@ -55,7 +55,7 @@ function div(){
     var resp = document.getElementById("respDiv")
 
     if(b !== 0){
-        resp.innerHTML = a / b
+        resp.innerHTML = (a / b).toFixed(2)
     }else{
         resp.innerHTML = "Nao se divide por 0"
     }

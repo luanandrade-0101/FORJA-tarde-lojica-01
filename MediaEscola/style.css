@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+h1{
+    font-family: "";
+}
+
+body{
+    font-family: "Nunito", sans-serif;
+    background-color: rgb(38, 0, 255);
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+input{
+    padding: 10px;
+    background: transparent;
+    border: none;
+    border: 2px solid rgb(255, 0, 0);
+    color: #ffffff;
+}
+
+button:hover{
+    background: #ffffff;
+    border: 2px solid #ff0000;
+    cursor: pointer;
+}
